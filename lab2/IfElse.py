@@ -19,4 +19,4 @@ if 5 > 2:
 #Ex8
 print("YES") if a == b else print("NO")
 #Ex9
-if a == c or b == c:
+if a == c or b == c:23
